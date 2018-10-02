@@ -1,0 +1,9 @@
+.text-white{
+    color:white;
+}
+.text-white:hover{
+    color:white;
+}
+.no-decoration:hover{
+text-decoration: none;
+}
